@@ -1,0 +1,125 @@
+
+<!DOCTYPE html>
+<html>
+   
+<head>  <meta charset="utf-8">
+        <title> Bmw M </title>
+        <link rel="stylesheet" tipe="text/css" href="style.css">
+
+        <link rel="apple-touch-icon" sizes="180x180" href="favicon//apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="favicon//favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="favicon//favicon-16x16.png">
+        <link rel="manifest" href="favicon//site.webmanifest">
+        <link rel="mask-icon" href="favicon/" color="#5bbad5">
+        <meta name="msapplication-TileColor" content="#da532c">
+        <meta name="theme-color" content="#ffffff">
+
+
+
+
+</head>
+        <body>
+                
+                
+                        <a class="buttoni" href="index.html">Retour</a>
+                 
+        
+
+
+                <div class="title1">
+                        <h1>BMW M </h1>
+                </div>
+                <div class="title2">
+                        <h1>
+                                <h2> Bmw possède une classe haute gamme, la classe M.</h2>
+                                <h2> Elle est spécialisée dans la conception et la fabrication d'automobiles destinées au grand tourisme et à la compétition. C'est une société filiale du groupe BMW.
+                        </h2>
+                </div>
+                <div class="title3">
+                        <h2> Cliquez ci-dessous pour découvrir certains modèles </h2>
+                  </div>
+
+
+
+
+<div class="card"> 
+        <div class="container"> 
+            <div class="box">
+                <div class="imgBM">
+                
+         <a href="https://www.horizon.fr/gamme/bmw-serie-m/m5-berline-166.html" target="_blank"> <img src="https://www.horizon.fr/images/gamme/bmw-serie-m-m5-berline.jpg">
+                </a>  
+        
+        </div>
+          
+          <div class="contentBM">
+                <div class="text1">
+          <h2> BMW M5 Berline
+          </h2>
+          <div class="text2"> 
+            <p> Voiture parfaite entre une berline élégante et une voiture minutieusement haute performance, une sportivité portée au plus haut niveau.   </p>
+        </div>
+        </div>
+        
+         </div>
+        </div>
+        </div>
+        <div class="card"> 
+                <div class="container"> 
+                    <div class="box">
+                        <div class="imgBM">
+                       
+                 <a href="https://www.horizon.fr/gamme/bmw-serie-m/m3-competition-berline-868.html" target="_blank"> <img src="https://www.horizon.fr/images/gamme/bmw-serie-m-m3-competition-berline.jpg">
+                        </a>  
+                
+                
+                </div>
+                  
+                  <div class="contentBM">
+                        
+                        <div class="text3"><h2> BMW M3 Competition Berline
+                  </h2>
+                  <div class="text2">
+                    <p> La BMW M3 Competition Berline possède une polyvalence exceptionnelle au quotidien.   </p>
+                
+                               </div>
+                              </div>
+                             </div>
+                            </div>
+                           </div>
+
+
+   <div class="card"> 
+     <div class="container"> 
+      <div class="box">
+       <div class="imgBM">
+                                        
+ <a href="https://www.horizon.fr/gamme/bmw-serie-m/m4-competition-m-xdrive-cabriolet-965.html" target="_blank"> <img src="https://www.horizon.fr/images/gamme/bmw-serie-m-m4-competition-m-xdrive-cabriolet.jpg">
+   </a>  
+                                
+ </div>
+                                  
+          <div class="contentBM">
+  
+        <div class="text4"> <h2> BMW M4 Competition M xDrive Cabriolet </h2>
+                <div class="text2">
+     <p> Puissance et un design esthétique, de pair avec la sportivité typique de la ligne M.    </p>
+                        
+                </div> 
+          </div>
+          </div>
+         </div>
+
+
+<script type="text/javascript" src="vanilla-tilt.js"></script>
+<script type="text/javascript">
+	VanillaTilt.init(document.querySelectorAll(".box"), {
+		max: 25,
+		speed: 400
+	});
+	
+	
+</script>
+    
+</body>
+</html>
